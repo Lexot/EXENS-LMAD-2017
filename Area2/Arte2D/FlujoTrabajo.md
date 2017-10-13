@@ -2,3 +2,4 @@
 
 ### Manejo de Flujo de Trabajo en una Producción de Animación 2D: ###
 **Pasos:** 
+***Etapa de concepto:**
